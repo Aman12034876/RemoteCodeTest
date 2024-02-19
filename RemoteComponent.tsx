@@ -1,1 +1,5 @@
-10*20
+() => {
+  return (
+    <Text>This is the Remote Component OOOKKK</Text>
+  )
+}
